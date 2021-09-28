@@ -1,0 +1,15 @@
+article {
+    margin: 50px;
+    padding: 10px;
+    background-color: cornflowerblue 2px solid;
+}
+
+h1 {
+    background-color: burlywood;
+    margin-left: 30px;
+}
+
+.nombre {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 36px;
+}
